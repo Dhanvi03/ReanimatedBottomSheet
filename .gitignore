@@ -1,0 +1,81 @@
+# macOS
+.DS_Store
+*.swp
+*.lock
+ 
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log
+yarn-debug.log
+ 
+# Logs
+*.log
+*.tmp
+temp/
+ 
+# React Native
+*.expo
+.expo/
+.expo-shared/
+*.babelrc
+*.env*
+.env/
+ 
+# Metro
+.metro/
+dist/
+ 
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+android/app/build/
+android/build/
+*.iml
+*.hprof
+*.keystore
+android/app/debug.keystore
+ 
+# iOS
+ios/Pods/
+ios/build/
+ios/DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+*.xccheckout
+*.hmap
+*.ipa
+*.xcworkspace/xcuserdata
+ios/*.xcodeproj/project.xcworkspace/xcuserdata
+ios/*.xcodeproj/xcuserdata
+ 
+# Fastlane
+*/fastlane/report.xml
+*/fastlane/Preview.html
+*/fastlane/screenshots/
+ 
+# Bundle artifacts
+*.jsbundle
+*.map
+ 
+# Testing & Coverage
+coverage/
+jest/
+*.lcov
+ 
+# Buck
+buck-out/
+\.buckd/
+ 
+ 
+# Misc
+*.orig
+*.patch
+*.rej
+ 
+# VSCode
+.vscode/

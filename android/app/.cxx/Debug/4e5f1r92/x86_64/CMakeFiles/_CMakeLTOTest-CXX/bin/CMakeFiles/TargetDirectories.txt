@@ -1,0 +1,4 @@
+/Users/hyperlink/Desktop/Moksha/reanimated_gesturehandler/android/app/.cxx/Debug/4e5f1r92/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/hyperlink/Desktop/Moksha/reanimated_gesturehandler/android/app/.cxx/Debug/4e5f1r92/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/hyperlink/Desktop/Moksha/reanimated_gesturehandler/android/app/.cxx/Debug/4e5f1r92/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/hyperlink/Desktop/Moksha/reanimated_gesturehandler/android/app/.cxx/Debug/4e5f1r92/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
